@@ -5,7 +5,7 @@ import { faQuoteLeft } from "@fortawesome/free-solid-svg-icons";
 import { faTwitterSquare } from "@fortawesome/free-brands-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
-import ReactFCCtest from 'react-fcctest';
+//import ReactFCCtest from 'react-fcctest';
 import "./styles.css";
 
 class App extends React.Component {

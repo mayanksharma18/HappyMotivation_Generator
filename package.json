@@ -17,13 +17,12 @@
     "react-scripts": "3.0.1",
     "styled-components": "4.2.1"
   },
-  "homepage": "https://mayanksharma18.github.io/HappyMotivation_Generator",
+  
   "devDependencies": {
     "typescript": "3.3.3"
   },
   "scripts": {
-"predeploy": "npm run build",
- "deploy": "gh-pages -d build",
+
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
