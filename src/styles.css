@@ -1,0 +1,74 @@
+body {
+  font-family: "Raleway", sans-serif;
+}
+#root {
+  padding: 15%;
+}
+#quote-box {
+  margin: auto;
+  width: 50%;
+  border-radius: 3px;
+  position: relative;
+  /* width: 450px; */
+  padding: 40px 50px;
+  display: table;
+  background-color: #fff;
+
+  font-weight: 500;
+  font-size: 1.75em;
+}
+#quote-text {
+  text-align: center;
+  width: 450px;
+  height: auto;
+  clear: both;
+  font-weight: 500;
+  font-size: 1.75em;
+}
+#author {
+  width: 450px;
+  height: auto;
+  clear: both;
+  padding-top: 20px;
+  font-size: 1em;
+  text-align: right;
+  opacity: 1;
+}
+#new-quote {
+  height: 38px;
+  margin-top: 30px;
+  margin-right: -7px;
+}
+#fa {
+  font-size: 25px;
+}
+.auth {
+  font-size: 0.65em;
+}
+#quote-box .buttons .button:hover {
+  opacity: 0.9;
+}
+.button {
+  float: right;
+  border-radius: 8px;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+#tweet-quote {
+  font-size: 53px;
+}
+.footer {
+  width: 450px;
+  text-align: center;
+  display: block;
+  margin: 15px auto 30px auto;
+  font-size: 0.8em;
+  color: #fff;
+}
